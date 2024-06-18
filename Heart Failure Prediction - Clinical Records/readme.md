@@ -1,4 +1,4 @@
-# Heart Failure Prediction Analysing Clinical Records
+# Heart Failure Prediction by Analysing Clinical Records
 
 ## Overview
 
