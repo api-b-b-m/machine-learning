@@ -1,9 +1,13 @@
-# Flipkart Laptop Data Analysis
+# Heart Failure Prediction Using Clinical Records
 
 ## Overview
 
-This project aims to analyze laptop data previously scraped from flipkart.com to understand the performance of various laptop brands based on several factors including true price, discount price, discount percentage, ratings, rating counts, and review counts.
+This project aims to analyze the factors involved in heart failure in patients and develop a model that can predict whether a patient will survive or not.
 
+
+## Dataset
+
+Kaggle [dataset](https://www.kaggle.com/datasets/aadarshvelu/heart-failure-prediction-clinical-records/data) by "Aadarsh Velu" and "ANTONY ALEXIA"
 
 ## Requirements
 
