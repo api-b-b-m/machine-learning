@@ -32,7 +32,7 @@ Kaggle [dataset](https://www.kaggle.com/datasets/aadarshvelu/heart-failure-predi
 2. Navigate to the project directory:
 
     ```bash
-    cd "Heart Failure Prediction - Clinical Records"
+    cd "machine-learning/Heart Failure Prediction - Clinical Records"
     ```
 
 3. Install the required Python packages:
